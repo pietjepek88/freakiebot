@@ -1,0 +1,19 @@
+{
+  "name": "freakiebot",
+  "version": "1.0.0",
+  "description": "freakiebot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "Emile Loosveld",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ytdl-core": "^0.26.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
